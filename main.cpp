@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//declare function
 string encription(string &);
 void menu();
 
